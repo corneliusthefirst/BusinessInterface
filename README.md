@@ -13,11 +13,11 @@
 
 <div style="width:100%">
     <div style="width:50%; display:inline-block">
-        <div style="flexWrap: 'wrap'">
-          <img width="500" height="320" style="borderRadius: 8" alt="Home" src="./assets/images/1.png">    
-          <img  width="500" height="320" style="borderRadius: 8" alt="Cart" src="./assets/images/2.png">    
-          <img  width="500" height="320" style="borderRadius: 8" alt="Address details" src="./assets/images/3.png">    
-          <img  width="500" height="320" style="borderRadius: 8" alt="Payment details" src="./assets/images/4.png">      
+        <div style="flexWrap: wrap; justify-content: center ; margin-left: 10; margin-right: 10">
+          <img alt="Home" src="./assets/images/1.png">    
+          <img    alt="Cart" src="./assets/images/2.png">    
+          <img   alt="Address details" src="./assets/images/3.png">    
+          <img  alt="Payment details" src="./assets/images/4.png">      
         </div>    
     </div>    
 </div>
