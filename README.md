@@ -14,10 +14,10 @@
 <div style="width:100%">
     <div style="width:50%; display:inline-block">
         <div style="flexWrap: 'wrap'">
-          <img width="250" height="320" style="borderRadius: 8" alt="Home" src="./assets/images/1.jpg">    
-          <img  width="250" height="320" style="borderRadius: 8" alt="Portfolio" src="./assets/images/2.jpg">    
-          <img  width="250" height="320" style="borderRadius: 8" alt="Trade" src="./assets/images/3.jpg">    
-          <img  width="250" height="320" style="borderRadius: 8" alt="Market" src="./assets/images/4.jpg">      
+          <img width="250" height="320" style="borderRadius: 8" alt="Home" src="./assets/images/1.png">    
+          <img  width="250" height="320" style="borderRadius: 8" alt="Portfolio" src="./assets/images/2.png">    
+          <img  width="250" height="320" style="borderRadius: 8" alt="Trade" src="./assets/images/3.png">    
+          <img  width="250" height="320" style="borderRadius: 8" alt="Market" src="./assets/images/4.png">      
         </div>    
     </div>    
 </div>
