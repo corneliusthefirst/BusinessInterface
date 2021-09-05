@@ -35,7 +35,7 @@ Business interface is a fully functional online shop built with reactjs and Comm
 
 # Installation
 
-1. Simply clone the project from this project. After cloning the repository:
+1. Simply clone the project from this project. After cloning the repository, You would need to get your own API KEYS for stripe and Commerce.js else you can use the .env.example file.
 
 # Setting up the sample app
 
